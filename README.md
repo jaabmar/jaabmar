@@ -14,5 +14,10 @@ I'm a Doctoral Student in Machine Learning and a Fellow at the [ETH AI Center](h
 - [Personal Website](https://sml.inf.ethz.ch/group/javiera/)
 - [Google Scholar](https://scholar.google.es/citations?user=gGHkUhkAAAAJ&hl=es)
 
-I welcome discussions or collaborations on any topic related to ML. Feel free to reach out!
+I'm always happy to chat about ML-related topics and open to collaborations. Feel free to reach out!
+
+
+
+
+
 
