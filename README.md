@@ -5,7 +5,7 @@ I'm a Doctoral Student in Machine Learning and a Fellow at the [ETH AI Center](h
 ### Research Interests
 
 - AI Safety
-- Causal Reasoning
+- Causality
 - Privacy
 - Interpretability
 
